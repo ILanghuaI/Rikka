@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d8b20d97-396f-46e3-adc7-4ef4cc65589a": {
+      "ProjectGuid": "d8b20d97-396f-46e3-adc7-4ef4cc65589a",
+      "DisplayName": "vs环境（调试代码）",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

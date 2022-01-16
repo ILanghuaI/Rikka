@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "813a1d45-a5b5-4792-a0e7-2966977655de": {
+      "ProjectGuid": "813a1d45-a5b5-4792-a0e7-2966977655de",
+      "DisplayName": "猜数字游戏",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
